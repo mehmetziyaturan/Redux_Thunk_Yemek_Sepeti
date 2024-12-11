@@ -6,7 +6,6 @@
 * Adding the product in the cart, editing the cart page.
 
 # Libraries
-
 - tailwindcss
 - axios
 - json-server
