@@ -1,4 +1,5 @@
 # Redux Thunk Yemek Sepeti
+
 * List restaurants on the home page
 * Distance information
 * detail section, comments, minimum order amount, estimated lead time, scoring.
